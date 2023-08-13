@@ -26,11 +26,11 @@
 
 ## Rubik's Cube Simulator
 
+**Repository:** ![Link](https://github.com/irrevocablesake/The-Cyber-Cube)
+
 ![main_gif](https://github.com/irrevocablesake/The-Cyber-Cube/blob/main/images/the%20cube%20animation.gif)
 
 **Description:** This is a 3D Rubik's Cube Simulator, you can play with the Rubik's Cube, change it's size, spacing between the cubes or the colors of the faces and interact with it using a mouse
-
-**Repository:** ![Link](https://github.com/irrevocablesake/The-Cyber-Cube)
 
 **Languages:** Javascript, HTML, CSS
 
@@ -47,9 +47,9 @@
 ![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_one.png)
 ![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_two.png)
 
-**Description:** This was my personal blog, I had created to explain my favourite area of interest that is "Machine learning", "Neuroscience" and "Fun Projects"
-
 **Repository:** ![Link](https://github.com/irrevocablesake/website)
+
+**Description:** This was my personal blog, I had created to explain my favourite area of interest that is "Machine learning", "Neuroscience" and "Fun Projects"
 
 **Languages:** HTML, CSS, Javascript, Ruby
 
