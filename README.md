@@ -10,7 +10,7 @@
 
 **Languages:** Python, Javascript, HTML, CSS, C++
 
-**Frameworks:** React JS, React Three Fiber, Zustand, Flask, Blender, SFML
+**Frameworks:** React JS, React Three Fiber, Zustand, Flask, Blender, SFML, Three JS
 
 ## Landing Page
 
