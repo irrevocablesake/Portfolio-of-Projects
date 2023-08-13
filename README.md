@@ -24,3 +24,27 @@
 
 **Frameworks:** React JS, React Three Fiber, Blender, Magica Voxel
 
+## Rubik's Cube Simulator
+
+![main_gif](https://github.com/irrevocablesake/The-Cyber-Cube/blob/main/images/the%20cube%20animation.gif)
+
+**Description:** This is a 3D Rubik's Cube Simulator, you can play with the Rubik's Cube, change it's size, spacing between the cubes or the colors of the faces and interact with it using a mouse
+
+**Repository:** ![Link](https://github.com/irrevocablesake/The-Cyber-Cube)
+
+**Languages:** Javascript, HTML, CSS
+
+**Frameworks:** Three JS
+
+## Gradient-Themed-Maze-Generator
+
+![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
+
+**Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
+
+**Repository:** ![Link](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator)
+
+**Languages:** C++
+
+**Frameworks:** SFML
+
