@@ -4,7 +4,7 @@
 
 ![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
 
-**Repository:** https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/
+**Repository:** ![Link](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/)
 
 **Description:** This is a Procedural 3D Maze Generator, all of the things you see above are created in code. On click of a button you can create new mazes on the fly! 
 
@@ -14,9 +14,9 @@
 
 ## Landing Page
 
-![main_image](https://github.com/irrevocablesake/LandingPage/)
+![main_image](https://github.com/irrevocablesake/LandingPage/blob/main/testing_output.png)
 
-**Repository:** https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/
+**Repository:** ![Link](https://github.com/irrevocablesake/LandingPage/)
 
 **Description:** This is a 3D Landing Page / Art Gallery that I created, to reflect my skillset and one of my areas of interest that is "Creative Developer". You can pan around, zoom in / out and move around ~ the objects! 
 
