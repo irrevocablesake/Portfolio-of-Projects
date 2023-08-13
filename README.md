@@ -38,9 +38,9 @@
 
 ## Gradient-Themed-Maze-Generator
 
-**Repository:** ![Link](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator)
-
 ![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
+
+**Repository:** ![Link](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator)
 
 **Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
 
@@ -48,7 +48,7 @@
 
 **Frameworks:** SFML
 
-## My Blog ( Current inaction )
+## My Blog ( Current in-active )
 
 ![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_one.png)
 ![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_two.png)
