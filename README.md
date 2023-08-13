@@ -44,8 +44,8 @@
 
 ## My Blog ( Current inaction )
 
-![main_one](https://github.com/irrevocablesake/website/upload_image_one.png)
-![main_one](https://github.com/irrevocablesake/website/upload_image_two.png)
+![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_one.png)
+![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_two.png)
 
 **Description:** This was my personal blog, I had created to explain my favourite area of interest that is "Machine learning", "Neuroscience" and "Fun Projects"
 
