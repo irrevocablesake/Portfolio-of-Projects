@@ -22,7 +22,7 @@
 
 **Languages:** Javascript, HTML, CSS
 
-**Frameworks:** React JS, React Three Fiber, Blender, Magica Voxel
+**Frameworks:** React JS, React Three Fiber, Blender, Magica Voxel, Three JS
 
 ## Rubik's Cube Simulator
 
