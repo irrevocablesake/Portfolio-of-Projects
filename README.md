@@ -1,6 +1,6 @@
 # Portfolio-of-Projects
 
-## Ray Tracer The Next Week
+## Ray Tracer The Next Week ( WIP )
 
 ![main image](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week/blob/master/images/render/heroRender.png)
 
