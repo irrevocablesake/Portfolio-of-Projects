@@ -1,5 +1,17 @@
 # Portfolio-of-Projects
 
+## Ray Tracer In a Weekend
+
+![main image](https://github.com/irrevocablesake/Ray-Tracer-In-a-Weekend/blob/master/images/hero/render.png)
+
+**Repository:** [Link](https://github.com/irrevocablesake/Ray-Tracer-In-a-Weekend/tree/master)
+
+**Description:** Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based on just math and contains features like: sampling, anti-aliasing and defocus blur
+
+**Languages:** C++, Python
+
+**FrameWorks:** None
+
 ## Procedural-3D-Maze-Generator
 
 ![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
