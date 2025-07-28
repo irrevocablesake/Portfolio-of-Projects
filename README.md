@@ -6,7 +6,7 @@
 
 **Repository:** [Link](https://github.com/irrevocablesake/Ray-Tracer-In-a-Weekend/tree/master)
 
-**Description:** Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based on just math and contains features like: sampling, anti-aliasing and defocus blur
+**Description:** Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: sampling, anti-aliasing and defocus blur. Visit link for in detail visualizations!
 
 **Languages:** C++, Python
 
