@@ -24,6 +24,18 @@
 
 **FrameWorks:** None
 
+## Grass Field Simulation
+
+![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
+
+**Repository:** [Link](https://github.com/irrevocablesake/Grass-Field-Simulation)
+
+**Description:** Grass Field Simulation, animatino and rendering up to 500k individual grass strands at a constant > 60FPS. Can be pushed upto 1 million individual grass strands whilst maintaining stable 60FPS or more
+
+**Languages:** Javascript, GLSL
+
+**FrameWorks:** Three.js
+
 ## Procedural-3D-Maze-Generator
 
 ![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
