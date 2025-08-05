@@ -1,17 +1,5 @@
 # Portfolio-of-Projects
 
-## Ray Tracer The Next Week ( WIP )
-
-![main image](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week/blob/master/images/render/heroRender.png)
-
-**Repository:** [Link](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week)
-
-**Description:** Advanced Ray Tracer based on CPU, with more features like motion blur, lighting, Quadrilatel intersections and Textures. Visit link for in detail visualizations!
-
-**Languages:** C++, Python
-
-**FrameWorks:** None
-
 ## Ray Tracer In a Weekend
 
 ![main image](https://github.com/irrevocablesake/Ray-Tracer-In-a-Weekend/blob/master/images/hero/render.png)
@@ -35,6 +23,18 @@
 **Languages:** Javascript, GLSL
 
 **FrameWorks:** Three.js
+
+## Ray Tracer The Next Week ( WIP )
+
+![main image](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week/blob/master/images/render/heroRender.png)
+
+**Repository:** [Link](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week)
+
+**Description:** Advanced Ray Tracer based on CPU, with more features like motion blur, lighting, Quadrilatel intersections and Textures. Visit link for in detail visualizations!
+
+**Languages:** C++, Python
+
+**FrameWorks:** None
 
 ## Procedural-3D-Maze-Generator
 
