@@ -12,13 +12,13 @@
 
 **FrameWorks:** None
 
-## Grass Field Simulation
+## Grass Field Simulation ( Procedural )
 
 ![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
 
 **Repository:** [Link](https://github.com/irrevocablesake/Grass-Field-Simulation)
 
-**Description:** Grass Field Simulation, animatino and rendering up to 500k individual grass strands at a constant > 60FPS. Can be pushed upto 1 million individual grass strands whilst maintaining stable 60FPS or more
+**Description:** Grass Field Simulation, animation and rendering up to **500k** individual grass strands at a constant **> 60FP**S. Can be pushed upto **1 million** individual grass strands whilst maintaining stable **60FPS or more**
 
 **Languages:** Javascript, GLSL
 
